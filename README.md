@@ -144,11 +144,13 @@ La práctica ha permitido comprender e implementar:
 * Un sistema de interacción basado en la mirada, tanto para seleccionar objetos como para ejecutar acciones complejas.
 * La lógica necesaria para coordinar eventos entre distintos elementos del entorno.
 
-## 5. Inclusión del APK en el Repositorio
+## 5. Inclusión del APK
 
-Como parte de la entrega de la práctica, el repositorio del proyecto incluye también el **archivo APK** generado a partir del build final de Unity. Este APK permite instalar y ejecutar la escena VR directamente en un dispositivo Android compatible con Google Cardboard, facilitando la evaluación y prueba sin necesidad de abrir el proyecto en el editor.
+Como parte de la entrega de la práctica, se incluye el **archivo APK** generado a partir del build final de Unity. Este APK permite instalar y ejecutar la escena VR directamente en un dispositivo Android compatible con Google Cardboard, facilitando la evaluación y prueba sin necesidad de abrir el proyecto en el editor.
 
-La presencia del APK en el repositorio asegura que cualquier usuario o evaluador pueda:
+[Descargar APK](https://drive.google.com/file/d/17pXU8CcCNuK1QplhfmGnFA_KZJpGPEc2/view?usp=sharing)
+
+La presencia del APK asegura que cualquier usuario o evaluador pueda:
 
 * Probar la experiencia VR de forma inmediata.
 * Verificar el correcto funcionamiento de la interacción con las piedras y el tronco.
